@@ -6,7 +6,7 @@ Neste artigo, apresentamos um método computacional para identificar tipos de re
 [Conjunto Features](conjunto_de_features.md)
 
 # Conjunto de Regras
-Conjuntos regras
+[Conjuntos Regras](rules)
 
 # Referências
 
