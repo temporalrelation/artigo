@@ -17,6 +17,11 @@ Cada regra possui o seguinte formato:
 A expressão lógica que representa a regra é composta por conjunções de condições. Cada condição é constituída por uma *`feature`* de nosso [conjunto de *features*](conjunto_de_features.md), um `operador`, que pode ser de igualdade ou desigualdade, e o `valor` da *feature*.
 
 
+# Resultados Finais
+
+Apresentamos os [resultados finais](source/RESULTADO_final_setRules.ipynb) dos experimentos realizados do dados de treinamento e teste para todos os conjuntos de regras. Os resultados consideram duas abordagens distintas para a aplicação das regras: a primeira regra acionada e o sistema de votação.
+
+
 # Referências
 
 [^timebankpt]: COSTA, Francisco; BRANCO, António. TimeBankPT: A TimeML Annotated Corpus of Portuguese. In: LREC. 2012. p. 3727-3734.
