@@ -24,5 +24,5 @@ Apresentamos os [resultados finais](source/RESULTADO_final_setRules.ipynb) dos e
 
 # Referências
 
-[^timebankpt]: COSTA, Francisco; BRANCO, António. TimeBankPT: A TimeML Annotated Corpus of Portuguese. In: LREC. 2012. p. 3727-3734.
+[^timebankpt]: COSTA, Francisco; BRANCO, António. TimeBankPT: A TimeML Annotated Corpus of Portuguese. In: LREC. 2012. p. 3727-3734. Disponível [aqui](http://nlx-server.di.fc.ul.pt/~fcosta/TimeBankPT/).
 [^baseline]: COSTA, Francisco Nuno Quintiliano Mendonça Carapeto. Processing Temporal Information in Unstructured Documents. 2012. Tese de Doutorado. Universidade de Lisboa (Portugal).
