@@ -69,7 +69,7 @@ Apresentaremos o nosso conjunto de *features* organizadas por tipo de informaç�
   - `timex3-pos:` classe gramatical da expressão temporal
 
 ## Informações Sintáticas
-  - `event-dep:` relação de dependência o evento tem com seu pai?
+  - `event-dep:` relação de dependência que o evento tem com seu pai
   - `event-head-is-root:` o evento modifica diretamente a raiz?  
     (ex: o evento é um filho direto da raiz na arvore de dependência?)
   - `event-is-ancestor-timex3:` o evento é a entidade regente na relação?
